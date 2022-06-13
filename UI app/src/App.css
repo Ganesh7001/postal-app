@@ -1,0 +1,18 @@
+
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.MuiFormControl-root{
+  width:100%
+}
+.lbl-txt{
+  position: relative;
+  top:30px
+}
+.goto{
+  cursor: pointer;
+  text-decoration: underline;
+}

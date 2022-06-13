@@ -1,0 +1,10 @@
+.menu{
+    list-style-type: none;
+    text-align: right;
+    background: #ececf1;
+}
+.menu >li{
+    display: inline;
+    margin-right: 15px;
+    cursor: pointer;
+}
